@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "420401173123",
+    "firebase_url": "https://tracker-f19c8.firebaseio.com",
+    "project_id": "tracker-f19c8",
+    "storage_bucket": "tracker-f19c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420401173123:android:d084f13695ace3ac",
+        "android_client_info": {
+          "package_name": "com.fahimabrar.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420401173123-g1vmkd1fpo7nifne0mdfq1c8617a588q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fahimabrar.tracker",
+            "certificate_hash": "b567e7e616abb95feeab149580c5acebbb3084bf"
+          }
+        },
+        {
+          "client_id": "420401173123-e33rgfrlf3ifb870f02fdjt8sbb1vvoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6PllL5nGOIHGNZm5emlzDFhnLx78fG5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420401173123-e33rgfrlf3ifb870f02fdjt8sbb1vvoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
